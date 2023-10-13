@@ -1,2 +1,1 @@
-vi README.md
-and then write the readme file
+git push origin main -u README.md
